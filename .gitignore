@@ -1,0 +1,12 @@
+
+TP3/my_model/
+
+TP3/my_modelMNIST/
+
+TP3/my_modelXOR/
+
+TP4/\.idea/
+
+*.pickle
+
+TP3/MNIST_data/
